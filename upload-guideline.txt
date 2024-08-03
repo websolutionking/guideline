@@ -1,0 +1,10 @@
+install git software
+git bash
+...............................
+git init
+git add .
+git commit -m "first comment"
+git branch -m main
+git remote add origin https://github.com/websolutionking/guideline.git
+git push origin main
+
